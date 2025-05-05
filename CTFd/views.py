@@ -211,9 +211,10 @@ def setup():
         <h3 class="text-center">
             <p>A cool CTF platform from <a href="https://ctfd.io">ctfd.io</a></p>
             <p>Follow us on social media:</p>
-            <a href="https://twitter.com/ctfdio"><i class="fab fa-twitter fa-2x" aria-hidden="true"></i></a>&nbsp;
-            <a href="https://facebook.com/ctfdio"><i class="fab fa-facebook fa-2x" aria-hidden="true"></i></a>&nbsp;
-            <a href="https://github.com/ctfd"><i class="fab fa-github fa-2x" aria-hidden="true"></i></a>
+            <a href="https://www.youtube.com/@az-sencs7506"><i class="fab fa-youtube fa-2x" aria-hidden="true"></i></a>&nbsp;
+            <a href="https://www.facebook.com/AZSENCS"><i class="fab fa-facebook fa-2x" aria-hidden="true"></i></a>&nbsp;
+            <a href="https://www.linkedin.com/company/az-sencs/"><i class="fab fa-linkedin fa-2x" aria-hidden="true"></i></a>
+            <a href="https://discord.gg/tWt8CgqkqY"><i class="fab fa-d fa-2x" aria-hidden="true"></i></a>
         </h3>
         <br>
         <h4 class="text-center">
